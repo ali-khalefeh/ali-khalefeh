@@ -1,16 +1,16 @@
-## Hi there 👋
+# أهلاً بك في ملفي الشخصي! 👋
 
-<!--
-**ali-khalefeh/ali-khalefeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+أنا "علي خليفة"، أعمل في مجال تصميم وتطوير الويب ولدي شغف بتحليل البيانات. 🚀
 
-Here are some ideas to get you started:
+### 📁 مشاريعي:
+إليك نماذج من أعمالي التي قمت بتطويرها:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **المشروع الأول:** [اضغط هنا لزيارة الموقع](https://scfoa.org.sa/)
+*   **المشروع الثاني:** [اضغط هنا لزيارة الموقع](https://saadsafr911.github.io/kingSaad/)
+
+### 🛠 التقنيات والمهارات:
+- Data Science & Analytics
+- WordPress & Elementor
+- HTML/CSS
+
+📫 يسعدني التواصل معك!
